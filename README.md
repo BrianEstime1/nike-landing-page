@@ -4,7 +4,8 @@ A modern, responsive Nike landing page showcasing limited edition sneakers.
 
 ## 📸 Preview
 
-![Nike Landing Page](./screenshot.png)
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 4 29 18 PM" src="https://github.com/user-attachments/assets/dd8349ea-a9aa-4acf-9c1f-e1981eaecd18" />
+
 
 ## ✨ Features
 
